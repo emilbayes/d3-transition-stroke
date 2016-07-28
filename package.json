@@ -1,0 +1,39 @@
+{
+  "name": "d3-transition-stroke",
+  "version": "1.0.0",
+  "description": "Interpolate a path using `stroke-dasharray`. Based on https://bl.ocks.org/mbostock/5649592",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "budo": "^8.3.0",
+    "d3": "^3.5.16",
+    "d3-convention": "^2.0.0",
+    "dom-classlist": "^1.0.1",
+    "insert-css": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Visually inspect at the provided URL\" && budo test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilbayes/d3-transition-stroke.git"
+  },
+  "keywords": [
+    "d3",
+    "transition",
+    "stroke",
+    "interpolate",
+    "stroke-dasharray",
+    "dasharray",
+    "tween",
+    "transition",
+    "path",
+    "line"
+  ],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilbayes/d3-transition-stroke/issues"
+  },
+  "homepage": "https://github.com/emilbayes/d3-transition-stroke#readme"
+}
